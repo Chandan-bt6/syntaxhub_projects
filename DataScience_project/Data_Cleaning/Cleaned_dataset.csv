@@ -1,0 +1,10 @@
+studentid,name,age,department,marks
+101.0,Aman,20,CSE,78.0
+102.0,Riya,21,IT,92.0
+103.0,Karan,19,ECE,69.0
+104.0,Simran,21,CSE,89.0
+105.0,Rahul,20,ME,55.0
+107.0,     ,22,CSE,84.0
+105.11111111111111,Neha,19,ECE,73.0
+109.0,Vikas,18,,0.0
+110.0,Sneha,21,IT,95.0
